@@ -24,6 +24,8 @@ npm i
 
 ## Usage
 
+[Untitled_ Aug 27, 2023 9_40 AM.webm](https://github.com/dreamsalotl/E-Commerce-Back-End/assets/130865355/2356e417-45d1-4a46-a3b9-fb12c1533296)
+
 To start the server, run the following command:
 
 ```
